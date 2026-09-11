@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laryssa Daniela</h1>
-<h3 align="center">Uma iniciante apaixonada or Cibersegurança</h3>
+<h3 align="center">Uma mulher apaixonada por Cibersegurança</h3>
 
 - 🌱 I’m currently learning **Segurança em redes e Engenharia Social**
 
